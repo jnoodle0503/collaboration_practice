@@ -1,0 +1,19 @@
+{
+  "name": "collaboration_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnoodle0503/collaboration_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnoodle0503/collaboration_practice/issues"
+  },
+  "homepage": "https://github.com/jnoodle0503/collaboration_practice#readme"
+}
